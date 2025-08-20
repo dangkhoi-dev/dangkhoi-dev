@@ -29,4 +29,4 @@
 
 ## 🌐 Liên hệ
 - 📫 Email: tranphandangkhoi205@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)  
+- 💼 [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/tr%E1%BA%A7n-phan-%C4%91%C4%83ng-kh%C3%B4i-697a9a34a/))  
