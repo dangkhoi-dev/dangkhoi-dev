@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Xin chào, mình là Khôi
 
-<!--
-**dangkhoi-dev/dangkhoi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sinh viên ngành Khoa học Máy tính tại HCMUT  
+💻 Đam mê lập trình, AI và phát triển phần mềm  
+⚡ Hiện tại đang nghiên cứu Machine Learning & Compiler  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Kỹ năng
+- 🌐 Web: React, Node.js, Css  
+- 🤖 AI/ML: Python, TensorFlow, PyTorch  
+- 🛠 Khác: Git, Docker, Jira  
+
+---
+
+## 📊 GitHub Stats
+
+![Khôi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dangkhoi-dev&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dangkhoi-dev&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=dangkhoi-dev&theme=radical)
+
+![Snake animation](https://raw.githubusercontent.com/dangkhoi-dev/dangkhoi-dev/output/snake.svg)
+
+---
+
+## 🌐 Liên hệ
+- 📫 Email: tranphandangkhoi205@gmail.com  
+- 💼 [LinkedIn](https://linkedin.com/in/your-link)  
