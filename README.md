@@ -21,7 +21,9 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=dangkhoi-dev&theme=radical)
 
-![Snake animation](https://raw.githubusercontent.com/dangkhoi-dev/dangkhoi-dev/output/snake.svg)
+### 🐍 Con rắn ăn contribution
+![snake gif](https://github.com/dangkhoi-dev/dangkhoi-dev/blob/output/snake.svg)
+
 
 ---
 
