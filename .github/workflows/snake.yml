@@ -5,6 +5,9 @@ on:
     - cron: "0 */12 * * *" # chạy mỗi 12 giờ
   workflow_dispatch:       # cho phép chạy thủ công
 
+permissions:               # 👈 thêm block này
+  contents: write          # cho phép ghi vào repo (push branch)
+
 jobs:
   build:
     runs-on: ubuntu-latest
