@@ -1,28 +1,25 @@
-name: Generate Snake Animation
+name: Generate Snake
 
 on:
-  schedule: # chạy mỗi 12h
-    - cron: "0 */12 * * *"
-  workflow_dispatch: # cho phép chạy tay
-  push:
-    branches:
-      - main
+  schedule:
+    - cron: "0 */12 * * *" # chạy mỗi 12 giờ
+  workflow_dispatch:       # cho phép chạy thủ công
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      - name: Generate snake game
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: dangkhoi-dev
           outputs: dist/snake.svg
 
-      - name: Push Snake to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
