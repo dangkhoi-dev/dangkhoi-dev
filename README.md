@@ -1,6 +1,6 @@
 # 👋 Xin chào, mình là Khôi
 
-🎓 Sinh viên ngành Khoa học Máy tính tại HCMUT  
+🎓 Sinh viên ngành Khoa học Máy tính tại Đại học Bách khoa (HCMUT) - Chuyên ngành: Trí tuệ nhân tạo 
 💻 Đam mê lập trình, AI và phát triển phần mềm  
 ⚡ Hiện tại đang nghiên cứu Machine Learning & Compiler  
 
